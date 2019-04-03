@@ -14,7 +14,7 @@ namespace WebApplication2.Controllers
 {
     [Authorize]
     public class AccountController : Controller
-    {
+    {//uyutut
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
